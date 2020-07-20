@@ -83,7 +83,7 @@ class Paint_lite():
         self.canvas.place(x=21, y=140)
 
         # Copyright Footer
-        self.label = Label(self.root, text="                                                            Copyright © Reserved to Saiyam Jain Corporations ",
+        self.label = Label(self.root, text="                                           Copyright © Saiyam Jain Corporations | All rights Reserved ",
                            font=('consolas', 12), bg='grey', relief=RIDGE)
         self.label.place(x=0, y=688, width=1366, height=25)
 
