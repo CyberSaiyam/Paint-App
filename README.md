@@ -9,4 +9,4 @@ Made with the help Python Tkinter.
 
 ## Here is my drawing :laughing:
 
-![](rowdy.png)
+![](rowdy.jpg)
